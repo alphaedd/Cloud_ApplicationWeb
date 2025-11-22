@@ -2,7 +2,7 @@
 # 📘 README – Aplicación Cloud Native (2025)
 ### **Fullstack + Serverless Web App usando AWS Amplify (Edición 2025)**  
 **Autor:** Edwin Ramos  
-**Actualizado:** Enero 2025  
+**Actualizado:** Noviembre 2025  
 
 ---
 
@@ -16,7 +16,6 @@ Este proyecto implementa una **aplicación nativa en la nube** siguiendo una arq
 - **Almacenamiento:** Amazon S3  
 - **Orquestación:** AWS Amplify Gen 2  
 
-Este repositorio fue modernizado a partir del proyecto *AmplifyWorkshop* y adaptado para cumplir con evaluaciones técnicas actuales relacionadas con arquitectura cloud-native.
 
 ---
 
