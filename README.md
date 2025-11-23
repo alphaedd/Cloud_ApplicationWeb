@@ -9,7 +9,6 @@ Incluye arquitectura moderna, escalable, segura y totalmente serverless.
 
 # 🖼️ Arquitectura Completa (Versión Ampliada)
 
-A continuación se presenta el diagrama ampliado basado en tu versión anterior:
 
 ![Diagrama Cloud](CLoud.drawio.png)
 
